@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|D:\\c#\\2\\2\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|D:\\c#\\2\\2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|D:\\c#\\2\\2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|D:\\c#\\2\\2\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|D:\\c#\\2\\2\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|d:\\c#\\2\\2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|d:\\c#\\2\\2\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|D:\\c#\\2\\2\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|d:\\c#\\2\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|D:\\c#\\2\\2\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|D:\\c#\\2\\2\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|D:\\c#\\2\\2\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EDEC44-5F10-421A-88BD-0CB4C623836D}|2\\2.csproj|solutionrelative:2\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\2\\2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "2\\Form1.Designer.cs",
+              "ToolTip": "D:\\c#\\2\\2\\Form1.Designer.cs",
+              "RelativeToolTip": "2\\Form1.Designer.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAD4v7oAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:42:03.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\2\\2\\RegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "2\\RegistrationForm.Designer.cs",
+              "ToolTip": "D:\\c#\\2\\2\\RegistrationForm.Designer.cs",
+              "RelativeToolTip": "2\\RegistrationForm.Designer.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAD4v80AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:40:01.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\2\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "D:\\c#\\2\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAUwFMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:43:38.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\2\\2\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "2\\CustomerForm.Designer.cs",
+              "ToolTip": "D:\\c#\\2\\2\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "2\\CustomerForm.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:07:25.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerForm.cs",
+              "DocumentMoniker": "D:\\c#\\2\\2\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "2\\ManagerForm.cs",
+              "ToolTip": "D:\\c#\\2\\2\\ManagerForm.cs",
+              "RelativeToolTip": "2\\ManagerForm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAawCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:05:57.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\2\\2\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "2\\ManagerForm.cs",
+              "ToolTip": "D:\\c#\\2\\2\\ManagerForm.cs [Design]",
+              "RelativeToolTip": "2\\ManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:05:55.894Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "D:\\c#\\2\\2\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "2\\CustomerForm.cs",
+              "ToolTip": "D:\\c#\\2\\2\\CustomerForm.cs",
+              "RelativeToolTip": "2\\CustomerForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:04:11.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\2\\2\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "2\\CustomerForm.cs",
+              "ToolTip": "D:\\c#\\2\\2\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "2\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:04:08.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\c#\\2\\2\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "2\\RegistrationForm.cs",
+              "ToolTip": "D:\\c#\\2\\2\\RegistrationForm.cs",
+              "RelativeToolTip": "2\\RegistrationForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA3wBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:03:12.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\2\\2\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "2\\RegistrationForm.cs",
+              "ToolTip": "D:\\c#\\2\\2\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "2\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:03:09.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#\\2\\2\\Form1.cs",
+              "RelativeDocumentMoniker": "2\\Form1.cs",
+              "ToolTip": "D:\\c#\\2\\2\\Form1.cs",
+              "RelativeToolTip": "2\\Form1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAD4vzoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:56:50.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\2\\2\\Form1.cs",
+              "RelativeDocumentMoniker": "2\\Form1.cs",
+              "ToolTip": "D:\\c#\\2\\2\\Form1.cs [Design]",
+              "RelativeToolTip": "2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:55:59.878Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
